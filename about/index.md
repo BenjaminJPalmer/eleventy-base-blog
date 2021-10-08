@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I am a junior developer and tester working in Leeds, currently enrolled in an apprenticeship with the Coders Guild.
